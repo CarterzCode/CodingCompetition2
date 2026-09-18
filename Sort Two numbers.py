@@ -1,18 +1,21 @@
 """
-Describe your program.
-First Last - Month Year
+Sorts two numbers based on value
+Carter Quarles - September 2026
 """
 
 def main() -> None:
-  pass # remove me
-
   # input
-
+  a,b = input().split()
+  a: int = int(a)
+  b: int = int(b)
 
   # processing
+  if a >= b:
+    #output
+    print(b,a)
+  else:
+    print(a,b)
   
-  
-  # output
 
 
 if __name__ == "__main__":
