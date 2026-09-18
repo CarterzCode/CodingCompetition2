@@ -1,6 +1,6 @@
 """
-Describe your program.
-First Last - Month Year
+Checks if a word is a palindrome
+Carter Quarles - September 2026
 """
 
 def main() -> None:

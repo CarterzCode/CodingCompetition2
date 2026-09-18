@@ -1,6 +1,6 @@
 """
-Describe your program.
-First Last - Month Year
+Prints the index of CIA blimps and checks that he didn't get away
+Cater Quarles - September 2026
 """
 
 def main() -> None:

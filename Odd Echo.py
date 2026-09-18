@@ -1,6 +1,6 @@
 """
-Describe your program.
-First Last - Month Year
+Prints every other word to n
+Carter Quarles - September 2026
 """
 
 def main() -> None:
@@ -16,7 +16,7 @@ def main() -> None:
       print(input())
 
 
-  # output
+
 
 
 if __name__ == "__main__":

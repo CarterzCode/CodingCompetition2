@@ -1,6 +1,6 @@
 """
-Describe your program.
-First Last - Month Year
+Swaps the digits of a number
+Carter Quarles - September 2026
 """
 
 def main() -> None:
